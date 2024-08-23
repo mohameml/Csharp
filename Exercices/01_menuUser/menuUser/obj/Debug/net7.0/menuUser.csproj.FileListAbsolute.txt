@@ -1,0 +1,15 @@
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/bin/Debug/net7.0/menuUser
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/bin/Debug/net7.0/menuUser.deps.json
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/bin/Debug/net7.0/menuUser.runtimeconfig.json
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/bin/Debug/net7.0/menuUser.dll
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/bin/Debug/net7.0/menuUser.pdb
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.csproj.AssemblyReference.cache
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.AssemblyInfoInputs.cache
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.AssemblyInfo.cs
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.csproj.CoreCompileInputs.cache
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.dll
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/refint/menuUser.dll
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.pdb
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/menuUser.genruntimeconfig.cache
+/home/mohameml/github/02_Info/01_programmation/05_Csharp/Exercices/01_menuUser/menuUser/obj/Debug/net7.0/ref/menuUser.dll
