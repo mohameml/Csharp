@@ -1,0 +1,17 @@
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\bin\Debug\net8.0\Presentation.exe
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\bin\Debug\net8.0\Presentation.runtimeconfig.json
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.genruntimeconfig.cache
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\ref\Presentation.dll
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\bin\Debug\net8.0\Bogus.dll
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\Users\DELL 7280\source\repos\Presentation\Presentation\obj\Debug\net8.0\Presenta.BC777DBE.Up2Date

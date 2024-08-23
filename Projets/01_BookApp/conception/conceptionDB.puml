@@ -1,0 +1,37 @@
+@startuml db
+
+class Biblo {
+    - nom : String 
+    - adress : String 
+}
+
+class Livre {
+    -   id : int 
+    -   titre : String  
+    -   auteur : String 
+    - isDispo : Boolean 
+}
+
+
+
+class Etudient {
+    - nom : string 
+    - prenom : string 
+    - matricule : string 
+}
+
+
+class Emprunt {
+    - id :int 
+    - DateDebut : Date 
+    - DateRetour : Date 
+}
+
+
+Biblo "1..*" -- "1..*"  Livre 
+
+Etudient "1..1" -- "1..*" Emprunt
+
+Livre "1..*" -- "1..1" Emprunt
+
+@enduml

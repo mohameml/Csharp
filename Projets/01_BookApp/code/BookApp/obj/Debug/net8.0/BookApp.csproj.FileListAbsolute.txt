@@ -1,0 +1,14 @@
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookApp.exe
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookApp.deps.json
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookApp.runtimeconfig.json
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookApp.dll
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\bin\Debug\net8.0\BookApp.pdb
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfoInputs.cache
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.AssemblyInfo.cs
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.dll
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\refint\BookApp.dll
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.pdb
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\BookApp.genruntimeconfig.cache
+C:\Users\DELL 7280\source\repos\BookApp\BookApp\obj\Debug\net8.0\ref\BookApp.dll
